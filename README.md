@@ -1,4 +1,4 @@
-<h1>Hey! I'm Andrew & I ❤️ code. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wasmake.readme.visitor-badge)</h1>
+<h1>Hey! I'm Andrew & I ❤️ code. [![visitors](https://visitor-badge.laobi.icu/badge?page_id=wasmake.readme.visitor-badge)]</h1>
 <h4>Currently working on private projects</h4>
 <hr>
 
