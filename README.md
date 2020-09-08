@@ -19,5 +19,7 @@
   <br>
   ⚡ "Everyone should learn how to program and develop stuff, so I am a teacher too!"
 </p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wasmake&count_private=true)
+<hr>
+
+![stats](https://github-readme-stats.vercel.app/api?username=wasmake&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmake&layout=compact)
