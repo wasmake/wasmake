@@ -2,21 +2,23 @@
 <h1>Hey! I'm Andrew & I ❤️ code.</h1>
 <h4>Currently working on private projects</h4>
 <hr>
-
-<!--
-**wasmake/wasmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am from Mexico, currently enrolled in Systems Engineering & Telecommunications
+  <br>
+  <br>
+  🎓 Studying at Universidad Anáhuac and taking online certifications
+  <br>
+  💻 I love making fullstack websites
+  <br>
+  🔬 I’m currently learning more languages
+  <br>
+  <br>
+  💬 Ask me anything <a href="https://twitter.com/wasmake" title="Twitter">@wasmake</a>
+  <br>
+  📫 How to reach me: <a href="mailto: andrewrora@gmail.com">andrewrora@gmail.com</a>
+  <br>
+  ⚡ "Everyone should learn how to program and develop stuff, so I am a teacher too!"
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wasmake&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
